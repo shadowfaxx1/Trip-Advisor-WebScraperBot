@@ -75,3 +75,6 @@ Feel free to contribute to this project by submitting bug reports, feature reque
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Sample Result from Booking.com
+![Project Screenshot](https://github.com/shadowfaxx1/trip-advisor/blob/666a857c78a8fb4f3ca7322fddfa73e5125b1e70/Screenshot%202023-07-16%20234146.png)
